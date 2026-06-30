@@ -1,0 +1,3 @@
+roberto,998989868,bobo@email.com
+ariel lopez,980098099,toto@email.com
+marco,098097976987,culito@email.com
